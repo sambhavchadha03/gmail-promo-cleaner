@@ -41,3 +41,18 @@ Beginner-friendly no-code automation
 Saves time and reduces inbox clutter
 
 📸 Demo / Screenshot
+
+![Workflow Screenshot](workflow.jpg)
+
+
+📚 What I Learned
+Building no-code automation workflows
+Trigger and action logic in Zapier
+Email filtering automation
+Productivity workflow design
+
+
+👨‍💻 Author
+Sambhav Chadha
+RPA & Automation Learner | UiPath | Zapier | Workflow Automation
+https://www.linkedin.com/sambhavchadha2003
